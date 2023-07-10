@@ -1,13 +1,13 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "泉此方.moc3",
-		"Textures": [
-			"泉此方.2048/texture_00.png"
-		],
-		"Physics": "泉此方.physics3.json",
-		"DisplayInfo": "泉此方.cdi3.json"
-	},
+	"type":"Live2D Model Setting",
+    "name":"22-3666666",
+    "label":"66",
+	"model": "泉此方.moc3",
+	"pose": "泉此方.cdi3.json",
+    "physics": "泉此方.physics3.json",
+	"textures":[
+        "泉此方.2048/texture_00.png"
+    ],
 	"Groups": [
 		{
 			"Target": "Parameter",
