@@ -8,13 +8,13 @@
 		"Physics": "physics.json",
 		"DisplayInfo": "pose.json",
 		"Pose": "pose.json",
-		"Motions": {   //动作配置
-			"Idle": [  //待机
+		"Motions": {   
+			"Idle": [  
 				{
 					"File": "pose.json",  
-					"FadeInTime": 0.5,  //淡入时间，可省略
-					"FadeOutTime": 0.5  //淡出时间，可省略
-				},
+					"FadeInTime": 0.5,  
+					"FadeOutTime": 0.5  
+				}
 			]
 		}
 	},
