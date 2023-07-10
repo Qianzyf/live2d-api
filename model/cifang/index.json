@@ -2,11 +2,11 @@
 	"type":"Live2D Model Setting",
     "name":"22-3666666",
     "label":"66",
-	"model": "泉此方.moc3",
-	"pose": "泉此方.cdi3.json",
-    "physics": "泉此方.physics3.json",
+	"model": "cifang.moc3",
+	"pose": "pose.json",
+    "physics": "physics.json",
 	"textures":[
-        "泉此方.2048/texture_00.png"
+        "cifangpic/texture_00.png"
     ],
 	"Groups": [
 		{
