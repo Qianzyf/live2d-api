@@ -3,20 +3,10 @@
 	"FileReferences": {
 		"Moc": "cifang.moc3",
 		"Textures": [
-			"cifangpic/texture_00.png"
+			"cifang.2048/texture_00.png"
 		],
-		"Physics": "physics.json",
-		"DisplayInfo": "pose.json",
-		"Pose": "pose.json",
-		"Motions": {   
-			"Idle": [  
-				{
-					"File": "pose.json",  
-					"FadeInTime": 0.5,  
-					"FadeOutTime": 0.5  
-				}
-			]
-		}
+		"Physics": "cifang.physics3.json",
+		"DisplayInfo": "cifang.cdi3.json"
 	},
 	"Groups": [
 		{
