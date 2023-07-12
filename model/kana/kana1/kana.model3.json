@@ -28,7 +28,17 @@
 				"Name": "tuomao.exp3.json",
 				"File": "tuomao.exp3.json"
 			}
-		]
+		],
+		"Motion": {
+			"": [
+				{
+					"File": "cry.motion3.json"
+				},
+				{
+					"File": "suda.motion3.json"
+				}
+			]
+		} 
 	},
 	"Groups": [
 		{
