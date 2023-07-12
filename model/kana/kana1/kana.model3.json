@@ -1,32 +1,32 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "帽子.moc3",
+		"Moc": "kana.moc3",
 		"Textures": [
-			"帽子.8192/texture_00.png"
+			"kana.8192/texture_00.png"
 		],
-		"Physics": "帽子.physics3.json",
-		"DisplayInfo": "帽子.cdi3.json",
+		"Physics": "kana.physics3.json",
+		"DisplayInfo": "kana.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "兴奋.exp3.json",
-				"File": "兴奋.exp3.json"
+				"Name": "thrive.exp3.json",
+				"File": "thrive.exp3.json"
 			},
 			{
-				"Name": "吓人.exp3.json",
-				"File": "吓人.exp3.json"
+				"Name": "terrify.exp3.json",
+				"File": "terrify.exp3.json"
 			},
 			{
-				"Name": "生气.exp3.json",
-				"File": "生气.exp3.json"
+				"Name": "angry.exp3.json",
+				"File": "angry.exp3.json"
 			},
 			{
-				"Name": "眩晕.exp3.json",
-				"File": "眩晕.exp3.json"
+				"Name": "faint.exp3.json",
+				"File": "faint.exp3.json"
 			},
 			{
-				"Name": "脱帽.exp3.json",
-				"File": "脱帽.exp3.json"
+				"Name": "tuomao.exp3.json",
+				"File": "tuomao.exp3.json"
 			}
 		]
 	},
